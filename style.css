@@ -11,4 +11,5 @@ width: 20%;
 
 .cabecalho-lista-item{
 display: inline-block;
+margi: 0 16px;
 }
